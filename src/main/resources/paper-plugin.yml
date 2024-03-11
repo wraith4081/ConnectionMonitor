@@ -1,0 +1,4 @@
+name: ConnectionMonitor
+version: '${project.version}'
+main: tr.com.wraith.connectionmonitor.ConnectionMonitor
+api-version: '1.20'
